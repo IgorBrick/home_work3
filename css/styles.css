@@ -1,3 +1,15 @@
 .logo {
     text-decoration: none;
 }
+
+.page-nav {
+    text-decoration: none;
+}
+
+.auth-nav {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
