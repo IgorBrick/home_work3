@@ -10,6 +10,14 @@
     text-decoration: none;
 }
 
-.list {
-    list-style: none;
+ .site-nave a {
+    text-decoration: none;
 }
+.site-nave :hover,
+.site-nave :focus {
+    color:red;
+    }
+
+    .logo span {
+    color: #4D5AE5;
+    }
