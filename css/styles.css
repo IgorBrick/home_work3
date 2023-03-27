@@ -8,10 +8,12 @@
 
 .auth-nav {
     text-decoration: none;
+    list-style: none;
 }
 
- .site-nave a {
+.site-nave {
     text-decoration: none;
+    list-style: none;
 }
 .site-nave :hover,
 .site-nave :focus {
