@@ -1,7 +1,7 @@
+/* logo style*/
 .logo {
     text-decoration: none;
 }
-
 .logo span {
     color: #4D5AE5;
     }
@@ -9,12 +9,14 @@
     body {
         background-color: #fff;
     }
+    /*list style*/
 .list {
     list-style: none;
 }
 
 .auth-nav a {
-    text-decoration: none;
+        text-decoration: none;
+        color: #434455;
 }
 
 .site-nave a {
