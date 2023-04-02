@@ -31,9 +31,22 @@
 .site-nave a {
     text-decoration: none;
 }
-/*
-.site-nave :hover,
-.site-nave :focus {
-    color:red;
-    }
-*/
+/* Section style*/
+.section-title {
+font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+/* identical to box height, or 120% */
+}
+
+.benefits p {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+}
+/* h2*/
+.header-h2 {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+}
